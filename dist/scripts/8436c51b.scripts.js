@@ -1,0 +1,1 @@
+"use strict";angular.module("yeomanTestApp",["ngCookies","ngSanitize"]),angular.module("yeomanTestApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
